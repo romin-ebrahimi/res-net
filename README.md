@@ -7,3 +7,4 @@ to time series. Convolutional filters are analogous to wavelet decompositions
 and can be used to extract signals across multiple time scales.
 
 - [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+- TODO: copy files from other private repositories
