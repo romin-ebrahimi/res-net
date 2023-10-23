@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import tensorflow as tf
-
 from keras.models import Model
 from keras.callbacks import EarlyStopping
 from keras.callbacks import ReduceLROnPlateau
